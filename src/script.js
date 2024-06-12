@@ -12,7 +12,7 @@ const fontLoader = new FontLoader();
 matcapTexture.colorSpace = THREE.SRGBColorSpace;
 
 fontLoader.load("/fonts/helvetiker_regular.typeface.json", (font) => {
-  const textGeometry = new TextGeometry("Elena Tropanets", {
+  const textGeometry = new TextGeometry("love what you do", {
     font,
     size: 0.5,
     height: 0.2,

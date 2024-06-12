@@ -1,4 +1,7 @@
-# Three.js Journey
+# Three.js Journey: 3D text geometries with objects floating around
+
+## Deployed Application
+Visit the deployed version at [webgl-3d-text-cyan-seven.vercel.app ](https://webgl-3d-text-cyan-seven.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
